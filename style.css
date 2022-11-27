@@ -1,0 +1,51 @@
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(149, 127, 100);
+    background-color:palegoldenrod;
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'PT Mono', monospace;
+    color: black;
+}
+
+.link {
+    font-size: 20px;
+    background: peachpuff;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+ 
+    min-width: 100%;
+    min-height: 60%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .link
+  {
+ color: rgb(0, 0, 0);
+  }
+ 

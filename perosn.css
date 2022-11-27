@@ -1,0 +1,55 @@
+body
+{
+background-size:cover;
+}
+
+
+ 
+  
+  
+ 
+
+.heading{
+    
+    margin-top: 0px;
+    background-color:rgb(124, 101, 134);
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    font-family: 'PT Mono', monospace;
+    
+}
+.heading:hover{
+    font-size: large;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
+
+  .link {
+      border-radius: 10px;
+      width: 100px;
+      position: absolute;
+      float:right;
+      right: 10px;
+      font-size:20px;
+      background-color: rgb(177, 127, 176);
+      color: rgb(255, 255, 255);
+      font-family: 'PT Mono', monospace;
+  }
+
+
+  .img
+  {
+width: 300px;
+height:400px;
+  }
+
+  #status
+  {
+    font-family: 'PT Mono', monospace;
+    background-color:rgb(99, 104, 150);
+    color:white;
+    font-size:20px;
+  }
